@@ -47,6 +47,7 @@ export const Form = () => {
       <hr></hr>
       <p>
         <Link to="/Home">Go to Home</Link>
+        Nice job
       </p>
     </form>
   );
